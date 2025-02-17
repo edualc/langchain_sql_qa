@@ -1,0 +1,10 @@
+tqdm
+matplotlib
+numpy
+pandas
+jupyter
+
+langchain-community
+langchainhub
+langgraph
+langchain[openai]
