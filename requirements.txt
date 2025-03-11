@@ -7,4 +7,6 @@ jupyter
 langchain-community
 langchainhub
 langgraph
-langchain[openai]
+
+ollama
+langchain-ollama
